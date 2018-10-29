@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d51a4b4fc2e3d94c875f872daae2980, type: 3}
+  m_Name: MainConfig
+  m_EditorClassIdentifier: 
+  LimitFpsSecurity: 5
+  MaxSpawn: 5000
+  MaxSpawnPerFrame: 200
+  MaxHeightSpawn: 30
+  randomRotation: 1
+  randomScale: 0
+  randomTranslate: 1
+  ActualFps: 19
+  AverageFps: 70
+  MinFps: 10
+  MaxFps: 189
+  CurrentFpsLevel: 2
+  ActualSpawn: 3537
