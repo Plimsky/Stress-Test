@@ -26,6 +26,10 @@ Go to the [wiki](https://github.com/Plimsky/Stress-Test/wiki)
 ## To-do list
 - [X] Window configuration
 - [ ] Keep spawned mesh in scene after play
+- [ ] Perlin positionning instead of standard random
+- [ ] Add several Scriptable Object in the scene
+- [ ] Display batching
+- [ ] Play animations (one specific animation)
 
 ## Contributing
 
@@ -46,4 +50,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
